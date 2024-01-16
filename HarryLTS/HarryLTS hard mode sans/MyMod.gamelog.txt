@@ -1,0 +1,90 @@
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v1.0(999)[r32908]    *
+***************************************	 
+RunnerLoadGame: F:\TheDownloads\hm-sans-lts\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - F:\TheDownloads\hm-sans-lts\
+#########################################################################
+RunnerLoadGame() - F:\TheDownloads\hm-sans-lts\MyMod.temp
+YYG Game launching. Game file: F:\TheDownloads\hm-sans-lts\MyMod.temp
+Checking if INIFile exists at F:\TheDownloads\hm-sans-lts/options.ini
+INIFile F:\TheDownloads\hm-sans-lts/options.ini Exists, loading....
+Reading File F:\TheDownloads\hm-sans-lts\MyMod.temp
+Loaded File F:\TheDownloads\hm-sans-lts\MyMod.temp(3369844)
+IFF wad found
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\Administrator\AppData\Local\UnderTale_Sans_Fight_Hard_Mode\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..InitPushFunctions...YoYo..Fini
+Code_Load()
+VARI_Load()
+got 575 global variables
+got 575 instance variables
+got 3275 local variables
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Score Form
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything!
+Process Chunk: GEN8   240
+Process Chunk: OPTN   88
+Process Chunk: LANG   24
+Process Chunk: EXTN   8
+Process Chunk: SOND   1608
+Audio_Load()
+Process Chunk: AGRP   24
+AudioGroup_Load()
+Process Chunk: SPRT   195176
+Process Chunk: BGND   1128
+Process Chunk: PATH   8
+Process Chunk: SCPT   4088
+Process Chunk: GLOB   8
+Process Chunk: SHDR   8
+Process Chunk: FONT   10504
+Process Chunk: TMLN   8
+Process Chunk: OBJT   92024
+Process Chunk: ROOM   7752
+Process Chunk: DAFL   8
+Process Chunk: EMBI   120
+Process Chunk: TPAG   4792
+Process Chunk: TGIN   520
+Process Chunk: CODE   395304
+Process Chunk: VARI   65512
+Process Chunk: FUNC   36536
+Process Chunk: STRG   125368
+Process Chunk: TXTR   153992
+Process Chunk: AUDO   2274780
+Audio_WAVs()
+PrepareGame()
+Extension_Prepare() 
+Code_Constant_Prepare() 
+Script_Prepare() 
+TimeLine_Prepare() 
+Object_Prepare() 
+Preparing 117 objects:
+Room_Prepare() 
+Sound_Prepare() 
+InitGraphics() 
+Finished PrepareGame() 
+Run_Start
